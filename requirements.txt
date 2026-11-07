@@ -1,0 +1,12 @@
+# Core numerical and scientific computing
+numpy>=1.24.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
+
+# Technical PDF report compilation and inspection
+reportlab>=3.6.0
+pypdf>=3.0.0
+
+# Optional test runner (built-in unittest requires no extra packages)
+pytest>=7.0.0
